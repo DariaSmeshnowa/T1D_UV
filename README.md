@@ -7,4 +7,4 @@ https://dariasmeshnowa.github.io/T1D_UV/interactive_map_UV%20(1).html
 https://dariasmeshnowa.github.io/T1D_UV/interactive_map_T1D.html
 
 Интерактивный график 
-https://dariasmeshnowa.github.io/T1D_UV/scatterplot-UV_T1D.html
+https://dariasmeshnowa.github.io/T1D_UV/interactive_scatterplot_UV_T1D.html
